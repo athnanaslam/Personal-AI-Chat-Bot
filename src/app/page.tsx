@@ -8,7 +8,7 @@ export default function Home() {
 
   return (
     <div style={{ display: "flex", flexDirection: "column", height: "100vh" }}>
-      <Toolbar title="Abu - AI" />
+      <Toolbar title="Johnson - AI" />
 
       <div style={{ flexGrow: 1, overflowY: "auto", padding: "10px" }}>
         <MessageLayout />
