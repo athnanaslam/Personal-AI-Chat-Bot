@@ -12,6 +12,8 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+// started with clients
+
 export const metadata: Metadata = {
   title: "Johnson - AI",
   description: "Personal Customized AI",
