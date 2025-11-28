@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Abu - AI",
+  title: "Johnson - AI",
   description: "Personal Customized AI",
 };
 
